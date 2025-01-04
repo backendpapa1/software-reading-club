@@ -18,3 +18,6 @@ My goal for reading this book is to deepen my understanding of the open-source X
 
 
 ### Journal
+Follow up my reading journey for this book here in this issue
+
+**Issues:** https://github.com/backendpapa1/software-reading-club/issues/1
